@@ -43,7 +43,7 @@ Getting ready (Washing your face, changing clothes etc)
 Preparing breakfast
 Eating breakfast
 Going to the office
-Sequential Approach
+### Sequential Approach
 You will first get ready and eventually move on to preparing breakfast for yourself. Then you’ll eat your breakfast and leave for the office either by walking, driving or using public transport. Every task has to be in sequence with another task.
 
 ### Concurrent Approach

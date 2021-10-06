@@ -3,11 +3,9 @@ Let's begin our learning by getting familiar with the basics of concurrency.
 
 ## We'll cover the following
 
-###What is concurrency?
-
-###What to expect from this course?
-
-###What is concurrency?
+### What is concurrency?
+### What to expect from this course?
+### What is concurrency?
 
 Concurrency, by definition, is the ability to break down a computer program or algorithm into individual parts, which can be executed independently. 
 The final outcome of a concurrent program is the same as that of a program which has been executed sequentially. Using concurrency, we are able to achieve the same results in 

@@ -3,9 +3,11 @@ Let's begin our learning by getting familiar with the basics of concurrency.
 
 ## We'll cover the following
 
-**What is concurrency?**
-**What to expect from this course?**
-**What is concurrency?**
+###What is concurrency?
+
+###What to expect from this course?
+
+###What is concurrency?
 
 Concurrency, by definition, is the ability to break down a computer program or algorithm into individual parts, which can be executed independently. 
 The final outcome of a concurrent program is the same as that of a program which has been executed sequentially. Using concurrency, we are able to achieve the same results in 
@@ -25,12 +27,12 @@ The bottom line is that the concept of concurrency is tricky to understand and i
 people tend to confuse it with parallelism. Please remember that concurrency and parallelism are two separate concepts in computer science, so make sure that you don’t mix them 
 up!
 
-What to expect from this course?
-For the sake of this course, we’ll explore concurrency using Go. Go is syntactically similar to C and contains built-in commands and features that help in implementing 
+## What to expect from this course?
+
+For the sake of this course, we’ll explore concurrency using **Go**. Go is syntactically similar to C and contains built-in commands and features that help in implementing 
 concurrency with ease. It provides programmers with the abstraction of OS-level operations, such as multithreading so that we can invest more in thinking about concurrent 
 designs rather than worrying about the underlying hardware. In this course, you’ll learn about core concurrency concepts in the first chapter while in the second chapter, 
 you will discover how to implement these concepts using the Go language. After getting familiar with the basics, you’ll get to know about the different concurrency patterns in 
 Go, which will prove to be very useful in sharpening your concurrent programming skills. Happy learning!
 
-svg viewer
 Let’s dive into understanding concurrency and differentiating between concurrency and parallelism in the next lesson. See you there!

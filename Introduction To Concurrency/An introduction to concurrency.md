@@ -3,7 +3,7 @@ Let's begin our learning by getting familiar with the basics of concurrency.
 
 ## We'll cover the following
 
-* [What is concurrency?](#what-is-concurrwncy)
+* [What is concurrency?](#what-is-concurrency)
 * [What to expect from this course?](#what-to-except-from-this-course)
 
 ### What is concurrency?

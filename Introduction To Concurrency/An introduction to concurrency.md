@@ -6,7 +6,7 @@ Let's begin our learning by getting familiar with the basics of concurrency.
 ### What is concurrency?
 ### What to expect from this course?
 
-**What is concurrency?**
+####What is concurrency?
 
 Concurrency, by definition, is the ability to break down a computer program or algorithm into individual parts, which can be executed independently. 
 The final outcome of a concurrent program is the same as that of a program which has been executed sequentially. Using concurrency, we are able to achieve the same results in 
@@ -26,7 +26,7 @@ The bottom line is that the concept of concurrency is tricky to understand and i
 people tend to confuse it with parallelism. Please remember that concurrency and parallelism are two separate concepts in computer science, so make sure that you don’t mix them 
 up!
 
-**What to expect from this course?**
+####What to expect from this course?
 
 For the sake of this course, we’ll explore concurrency using **Go**. Go is syntactically similar to C and contains built-in commands and features that help in implementing 
 concurrency with ease. It provides programmers with the abstraction of OS-level operations, such as multithreading so that we can invest more in thinking about concurrent 
